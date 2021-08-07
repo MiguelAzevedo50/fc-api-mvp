@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQ74/sW8gt5IXrBYWb9boTpw/C4O3JaZLp/DL2T4oTQ+Tiz/GzD+JaXgsso1F56/BYVk/XHLSwgwjAqCbjbkmg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\fc-api-mvp\\fc.api\\fc.api\\fc.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
